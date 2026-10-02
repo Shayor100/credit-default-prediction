@@ -18,9 +18,9 @@ Which credit card customers are likely to miss next month's payment? This projec
 - **The random forest ranks risk best.** If the bank reviews the **riskiest 20% of customers, it reaches 51% of next month's defaulters**, 2.5× better than picking at random.
 - **Recent repayment behaviour is the strongest signal.** Customers already 2+ months late default about 70% of the time, compared with 22% overall.
 
-![Default rate by most recent repayment status](images/default_by_status.png)
+![Default rate by most recent repayment status](default_by_status.png)
 
-![Cumulative gains curve](images/gains_curve.png)
+![Cumulative gains curve](gains_curve.png)
 
 ## What the notebook covers
 
